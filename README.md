@@ -1,4 +1,4 @@
 # Stochastic Optimization
 
-However answer to https://xu-yangyang.github.io/MATP6960.html.
+Homeworks in https://xu-yangyang.github.io/MATP6960.html.
 
