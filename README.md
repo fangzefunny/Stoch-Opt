@@ -1,3 +1,2 @@
-# Stochastic optimization Algorithm
+# Stochastic Optimization
 
-Repo for stochastic optimization projects
